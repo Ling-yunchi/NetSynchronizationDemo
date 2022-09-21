@@ -4,7 +4,7 @@ a simple demo of command synchronization with frontend use unity and backend use
 
 ![preview](./README/preview.png)
 
-[gifpreview](./README/preview.mp4)
+[mp4 preview](./README/preview.mp4)
 
 ## principle
 
