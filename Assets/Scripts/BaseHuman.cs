@@ -25,9 +25,9 @@ public class BaseHuman : MonoBehaviour
             return;
 
         Vector3 pos = transform.position;
-        transform.position = Vector3.MoveTowards(pos,_targetPosition,_speed * Time.deltaTime);
+        transform.position = Vector3.MoveTowards(pos, _targetPosition, _speed * Time.deltaTime);
         transform.LookAt(_targetPosition);
-        if(Vector3.Distance(pos,_targetPosition) < 0.1f)
+        if (Vector3.Distance(pos, _targetPosition) < 0.5f)
         {
             _isMoving = false;
             _animator.SetBool("isMoving", false);
