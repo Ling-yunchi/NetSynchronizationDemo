@@ -2,7 +2,9 @@
 
 a simple demo of command synchronization with frontend use unity and backend use go
 
-![preview](./imgs/preview.png)
+![preview](./README/preview.png)
+
+[gifpreview](./README/preview.mp4)
 
 ## principle
 
