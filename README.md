@@ -20,6 +20,8 @@ you need to import 'Standard Assets' from Unity Asset Store.
 
 at least, you need to import all the packages in 'Standard Assets' except '2D'.
 
+and you need to install 'Cinemachine' from Unity Asset Store.
+
 ### go
 
 you need to install go and set the GOPATH
