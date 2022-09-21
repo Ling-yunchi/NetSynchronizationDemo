@@ -2,6 +2,8 @@
 
 a simple demo of command synchronization with frontend use unity and backend use go
 
+![preview](./imgs/preview.png)
+
 ## principle
 
 1. use unity websocket to connect to go server
